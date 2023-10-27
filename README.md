@@ -48,6 +48,11 @@
 <a href="https://nodejs.org/en" target="_blank" >
   <img height="48" width="48" src="https://nodejs.org/static/images/logo.svg" alt="Nodejs" />
 </a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" >
+  <img height="48" width="48" src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-700x700.png" alt="git" />
+</a>
+
 
 
 
