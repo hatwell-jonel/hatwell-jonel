@@ -39,6 +39,20 @@
   <img height="48" width="48" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" />
 </a>
 
+&#8287;&#8287;&#8287;
+<!-- FIGMA -->
+<a href="https://www.figma.com/" target="_blank" >
+  <img height="48" width="48" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AFigma-logo.svg&psig=AOvVaw2-ollLzsd1R4Bx_TLXFdCp&ust=1698479427725000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiOt6bflYIDFQAAAAAdAAAAABAE" alt="Figma" />
+</a>
+
+&#8287;&#8287;&#8287;
+<!-- FIGMA -->
+<a href="https://nodejs.org/en" target="_blank" >
+  <img height="48" width="48" src="https://nodejs.org/static/images/logo.svg" alt="Nodejs" />
+</a>
+
+
+
 
 
 
