@@ -11,12 +11,17 @@
 &#8287;&#8287;&#8287;
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank" >
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstarp" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- ReactJs -->
+<a href="https://beta.react.org" target="_blank" >
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" />
+</a>
+&#8287;&#8287;&#8287;
+<!-- laravel -->
 <a href="https://laravel.com/" target="_blank" >
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactJS" />
+  <img height="48" width="48" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" />
 </a>
 
 <!--
