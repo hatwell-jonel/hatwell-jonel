@@ -4,7 +4,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://jonelhatwell.vercel.app/">
+<a href="https://jonelhatwell.vercel.app/" target="_blank">
 <strong>Visit my PortFolio </strong>
 <br />
 <br />
