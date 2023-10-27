@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ## 🖥️ Portfolio: 
-  - (https://jonelhatwell.vercel.app/)[https://jonelhatwell.vercel.app/]
+  - https://jonelhatwell.vercel.app/
 
-## 🖥️ Skills:  
+## 👨🏽‍💻 Skills:  
 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank" >
