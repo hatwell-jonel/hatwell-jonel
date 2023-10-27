@@ -8,14 +8,14 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
 </a>
-
+&#8287;&#8287;&#8287;
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com/" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstarp" />
 </a>
-
+&#8287;&#8287;&#8287;
 <!-- ReactJs -->
-<a href="https://beta.react.org" target="_blank" >
+<a href="https://laravel.com/" target="_blank" >
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactJS" />
 </a>
 
