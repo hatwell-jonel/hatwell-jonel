@@ -41,7 +41,7 @@
 &#8287;&#8287;&#8287;
 <!-- FIGMA -->
 <a href="https://www.figma.com/" target="_blank" >
-  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/300px-Figma-logo.svg.png" alt="Figma" />
+  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/100px-Figma-logo.svg.png" alt="Figma" />
 </a>
 &#8287;&#8287;&#8287;
 <!-- Nodejs -->
