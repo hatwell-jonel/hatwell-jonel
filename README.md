@@ -36,7 +36,7 @@
 &#8287;&#8287;&#8287;
 <!-- FIREBASE -->
 <a href="https://firebase.google.com/" target="_blank" >
-  <img height="48" width="48" src="https://www.gstatic.com/devrel-devsite/prod/v75b36477a7a44d608aad493a7965a008a500a66ae23f1902a624b5ad855ffcce/firebase/images/lockup.svg" alt="Firebase" />
+  <img height="48" width="48" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" />
 </a>
 
 
