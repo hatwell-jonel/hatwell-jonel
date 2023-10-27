@@ -28,18 +28,15 @@
 <a href="https://codeigniter.com/" target="_blank" >
   <img height="48" width="48" src="https://codeigniter.com/assets/icons/ci-logo.png" alt="Code Igniter" />
 </a>
-
 &#8287;&#8287;&#8287;
 <!-- SASS -->
 <a href="https://sass-lang.com/" target="_blank" >
   <img height="48" width="48" src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS" />
 </a>
-
 &#8287;&#8287;&#8287;
 <!-- FIREBASE -->
 <a href="https://firebase.google.com/" target="_blank" >
-  <img height="48" width="48" src="
-https://www.gstatic.com/devrel-devsite/prod/v75b36477a7a44d608aad493a7965a008a500a66ae23f1902a624b5ad855ffcce/firebase/images/lockup.svg" alt="Firebase" />
+  <img height="48" width="48" src="https://www.gstatic.com/devrel-devsite/prod/v75b36477a7a44d608aad493a7965a008a500a66ae23f1902a624b5ad855ffcce/firebase/images/lockup.svg" alt="Firebase" />
 </a>
 
 
