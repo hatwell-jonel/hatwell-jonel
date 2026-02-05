@@ -9,7 +9,6 @@ Feel free to reach out for collaborations, opportunities, or just a friendly cha
 - 💼 [Portfolio](https://jonelhatwell.vercel.app/)
 - 💌 [Email](mailto:jonel.hatwell@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jonel-hatwell/)
-- 📱 +63 906 028 0894
 
 ---
 
